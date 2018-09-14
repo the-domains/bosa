@@ -19,7 +19,32 @@ colors:
 name: BOSA
 layout_spectrum: 0.5243725827895105
 typography_spectrum: 0.44641207717359066
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0169a9d0-e4f0-481d-9862-c4017d8807ec.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0169a9d0-e4f0-481d-9862-c4017d8807ec.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 content_rating:
   adult: false
