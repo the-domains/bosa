@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+  brandStrength: 0.9369836007244885
+  lightness: 0.8938701157458127
+  saturation: 0.5511133389081806
+  rhythmicContrast: 0.6092912792228162
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: BOSA
+layout_spectrum: 0.5243725827895105
+typography_spectrum: 0.44641207717359066
+content: []
+github: true
+content_rating:
+  adult: false
+title: студия архитектуры и дизайна
+description: ''
