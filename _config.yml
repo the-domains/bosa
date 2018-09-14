@@ -1,3 +1,5 @@
+layout_spectrum: 0.5224621701720955
+typography_spectrum: 0.6791146374084425
 color:
   brandColors:
     - '#2B3A42'
@@ -5,10 +7,10 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
-  brandStrength: 0.9369836007244885
-  lightness: 0.8938701157458127
-  saturation: 0.5511133389081806
-  rhythmicContrast: 0.6092912792228162
+  brandStrength: 0.9342891135545319
+  lightness: 0.8986662325348779
+  saturation: 0.5532677418865855
+  rhythmicContrast: 0.6045130425478599
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: BOSA
-layout_spectrum: 0.5243725827895105
-typography_spectrum: 0.44641207717359066
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
